@@ -17,6 +17,7 @@ frida -U -l .\instagram-v395.js -f com.instagram.android --no-pause
 | script  | version |
 | ------------- | ------------- |
 | instagram-v395.js  | 395.0.0.42.82  
+| instagram-v398.js  | 398.1.0.53.77 
 
 
 
