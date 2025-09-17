@@ -21,3 +21,6 @@ frida -U -l .\instagram-v395.js -f com.instagram.android --no-pause
 
 
 
+---
+
+> ⚠️ **Legal Notice:** **For educational and research purposes only.** Use only on apps/devices you **own** or are **explicitly authorized** to test. Respect all applicable laws and Terms of Service.
