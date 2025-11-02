@@ -11,13 +11,14 @@ tron(TRC20): `TEWyQAkozAu8JjFpEWWJNQidf8XGBVigM3`
 To use these scripts, you need frida-tools and also frida-server. If you are not familiar with frida, please look at the [documentation](https://frida.re/docs/home/)\
 Example of usage:
 ```
-frida -U -l .\instagram-v395.js -f com.instagram.android --no-pause
+frida -U -l .\instagram-v404.js -f com.instagram.android --no-pause
 ```
 ## Tested versions
 | script  | version |
 | ------------- | ------------- |
 | instagram-v395.js  | 395.0.0.42.82  
 | instagram-v398.js  | 398.1.0.53.77 
+| instagram-v404.js  | 404.0.0.48.76
 
 
 
