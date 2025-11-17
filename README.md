@@ -19,7 +19,7 @@ frida -U -l .\instagram-v404.js -f com.instagram.android --no-pause
 | instagram-v395.js  | 395.0.0.42.82  
 | instagram-v398.js  | 398.1.0.53.77 
 | instagram-v404.js  | 404.0.0.48.76
-
+| [instagram-V405.apk](https://github.com/trxyazilimedu/Instagram-SSL-Pinning-Bypass/releases/tag/V405.1.0.57.77) | 405.1.0.57.77
 
 
 ---
