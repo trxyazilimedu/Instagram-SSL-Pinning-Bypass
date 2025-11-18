@@ -37,7 +37,7 @@ For non-rooted devices, use the pre-patched APK available in the releases sectio
 | instagram-v398.js | 398.1.0.53.77 | Yes |
 | instagram-v404.js | 404.0.0.48.76 | Yes |
 | instagram-V405.apk | 405.1.0.57.77 | **No (Pre-patched)** |
-
+| instagram-V407.apk | 407.0.0.7.243 | **No (Pre-patched)** |
 ---
 
 > ⚠️ **Legal Notice:** **For educational and research purposes only.** Use only on applications and devices you **own** or are **explicitly authorized** to test. Unauthorized interception of communications may violate laws including the Computer Fraud and Abuse Act (CFAA) and similar regulations in other jurisdictions. Always respect applicable laws, regulations, and Terms of Service. This tool is intended solely for security research and authorized penetration testing.
