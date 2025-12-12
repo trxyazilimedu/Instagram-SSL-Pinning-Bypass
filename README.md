@@ -64,7 +64,7 @@ For Facebook v540.0.0.49.148, use the patched `libcoldstart.so` library replacem
 ### Facebook
 | File | Version | Root Required | Method |
 |------|---------|---------------|--------|
-| libcoldstart.so | 540.0.0.49.148 | **No** | Library Replacement (ADB) |
+| libcoldstart.so | 540.0.0.49.148 | **Yes** | Library Replacement (ADB) |
 
 ## Troubleshooting
 
