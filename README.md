@@ -60,6 +60,8 @@ For Facebook v540.0.0.49.148, use the patched `libcoldstart.so` library replacem
 | instagram-v404.js | 404.0.0.48.76 | Yes | Frida |
 | instagram-V405.apk | 405.1.0.57.77 | **No** | Pre-patched APK |
 | instagram-V407.apk | 407.0.0.7.243 | **No** | Pre-patched APK |
+| instagram-v408-plus.js | 410.0.0.51.71 | Yes | Frida |
+
 
 ### Facebook
 | File | Version | Root Required | Method |
